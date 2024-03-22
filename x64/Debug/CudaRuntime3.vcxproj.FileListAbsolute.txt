@@ -1,0 +1,2 @@
+C:\Users\Konrad\Downloads\CudaRuntime3\x64\Debug\CudaRuntime3.exe
+C:\Users\Konrad\Downloads\CudaRuntime3\Cuda-Nvidia\x64\Debug\CudaRuntime3.exe
